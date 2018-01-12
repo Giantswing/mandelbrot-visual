@@ -1,0 +1,14 @@
+#jsCanvas {
+  width: 450px;
+  height: 450px;
+  border-width: 100px;
+  border-color: black;
+  border-radius: 4px;
+  box-shadow: 0px 0px 45px rgba(0,0,0,1);
+}
+
+body{
+  margin-top:3%;
+  margin-left:3%;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
